@@ -7,9 +7,9 @@ The challenge is to build a data-driven solution that helps voters, civil societ
 
 | Full Name | GitHub Profile | Program |
 |---|---|---|
-| Lethobonolo Mothibi | [LEHOGONOL09](https://github.com/LEHOGONOL09) | |
+| Lethobonolo Mothibi | [LEHOGONOL09](https://github.com/LEHOGONOLO09) | |
 | Mochene Des Rakobela | [Des-star-droid](https://github.com/Des-star-droid) | |
 | Seraphine Mutwambaka Bharula | [Starfire-star](https://github.com/Starfire-star) | |
 | Simamkele Jokose | [Princess24-maker](https://github.com/Princess24-maker) | ICT |
-| Patsimo Roobajie | [Patsimo883](https://github.com/Patsimo883) | |
+| Patsimo Roobajie | [Patsimo883](https://github.com/Phatsimo883) | |
 | Siyabonga Jose Ndzobondzobo | [SiyaJNdzobs](https://github.com/SiyaJNdzobs) | ICT |
