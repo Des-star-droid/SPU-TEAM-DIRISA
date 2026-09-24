@@ -1,6 +1,6 @@
-# SPI-DIRISA Team
+# SPU-DIRISA Team
 
-This is the SPI-DIRISA team repository for a qualifier challenge using publicly available IEC election data.
+This is the SPU-DIRISA team repository for a qualifier challenge using publicly available IEC election data.
 The challenge is to build a data-driven solution that helps voters, civil society, journalists, or policymakers understand voter registration, participation, or representation ahead of South Africa’s 2026 Local Government Elections.
 
 ## Team
