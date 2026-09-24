@@ -11,5 +11,5 @@ The challenge is to build a data-driven solution that helps voters, civil societ
 | Mochene Des Rakobela | [Des-star-droid](https://github.com/Des-star-droid) | |
 | Seraphine Mutwambaka Bharula | [Starfire-star](https://github.com/Starfire-star) | |
 | Simamkele Jokose | [Princess24-maker](https://github.com/Princess24-maker) | ICT |
-| Patsimo Roobajie | [Patsimo883](https://github.com/Phatsimo883) | |
+| Patsimo Roobajie | [Phatsimo883](https://github.com/Phatsimo883) | |
 | Siyabonga Jose Ndzobondzobo | [SiyaJNdzobs](https://github.com/SiyaJNdzobs) | ICT |
